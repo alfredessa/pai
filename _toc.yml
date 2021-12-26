@@ -1,0 +1,12 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: index
+parts: 
+  - caption: Jupyter Notebooks
+    chapters:
+      - file: SLR-CaseStudy
+      - file: KNN-CaseStudy
+      - file: MLR-CaseStudy
+      - file: LRG-CaseStudy
