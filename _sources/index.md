@@ -9,7 +9,7 @@ The code corresponding to the book is available in the form of Jupyter Notebooks
 
 ## Videos
 
-Videos for the case studies will be available.
+Videos for the case studies will be available beginning in March 2022.
 
 ## Errata
 
